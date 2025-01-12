@@ -1,0 +1,8 @@
+/* style.css */
+
+div .text {
+  background-color: #ffff00;
+  color: #e00000;
+  font-size: 20px;
+  text-align: center; /* forgot to spell in merican before checking sol */
+}
